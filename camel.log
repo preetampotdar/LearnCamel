@@ -1,0 +1,702 @@
+2020-08-23 13:39:31,295 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 13:39:31,297 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 13:39:31,467 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 13:39:31,575 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 13:39:31,612 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input
+2020-08-23 13:39:31,612 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 13:39:31,615 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.320 seconds
+2020-08-23 13:39:36,620 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 13:39:36,624 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2020-08-23 13:39:36,634 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-08-23 13:39:36,636 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 13:39:36,671 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.379 seconds
+2020-08-23 13:39:36,672 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.052 seconds
+2020-08-23 13:46:21,925 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 13:46:21,929 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 13:46:22,098 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 13:46:22,205 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 13:46:22,243 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input
+2020-08-23 13:46:22,243 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 13:46:22,245 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.322 seconds
+2020-08-23 13:46:27,249 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 13:46:27,251 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2020-08-23 13:46:27,256 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-08-23 13:46:27,257 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 13:46:27,280 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.359 seconds
+2020-08-23 13:46:27,281 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.032 seconds
+2020-08-23 13:46:49,260 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 13:46:49,263 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 13:46:49,421 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 13:46:49,528 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 13:46:49,570 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input
+2020-08-23 13:46:49,570 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 13:46:49,574 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.312 seconds
+2020-08-23 13:46:54,575 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 13:46:54,577 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2020-08-23 13:46:54,582 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-08-23 13:46:54,582 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 13:46:54,605 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.347 seconds
+2020-08-23 13:46:54,606 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.031 seconds
+2020-08-23 13:47:46,889 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 13:47:46,892 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 13:47:47,050 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 13:47:47,155 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 13:47:47,191 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input
+2020-08-23 13:47:47,191 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 13:47:47,194 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.305 seconds
+2020-08-23 13:47:52,195 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 13:47:52,198 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2020-08-23 13:47:52,203 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-08-23 13:47:52,203 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 13:47:52,226 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.340 seconds
+2020-08-23 13:47:52,226 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.031 seconds
+2020-08-23 13:48:47,272 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 13:48:47,275 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 13:48:47,436 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 13:48:47,549 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 13:48:47,591 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input
+2020-08-23 13:48:47,592 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 13:48:47,594 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.322 seconds
+2020-08-23 13:48:52,597 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 13:48:52,598 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2020-08-23 13:48:52,607 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-08-23 13:48:52,607 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 13:48:52,638 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.368 seconds
+2020-08-23 13:48:52,639 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.043 seconds
+2020-08-23 13:52:14,693 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 13:52:14,696 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 13:52:14,874 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 13:52:14,991 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 13:52:15,030 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input
+2020-08-23 13:52:15,031 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 13:52:15,033 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.342 seconds
+2020-08-23 13:52:20,039 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 13:52:20,040 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2020-08-23 13:52:20,043 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-08-23 13:52:20,043 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 13:52:20,063 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.374 seconds
+2020-08-23 13:52:20,063 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.024 seconds
+2020-08-23 13:52:40,420 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 13:52:40,422 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 13:52:40,589 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 13:52:40,696 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 13:52:40,731 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input
+2020-08-23 13:52:40,732 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 13:52:40,734 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.314 seconds
+2020-08-23 13:52:45,739 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 13:52:45,741 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2020-08-23 13:52:45,748 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-08-23 13:52:45,749 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 13:52:45,778 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.360 seconds
+2020-08-23 13:52:45,778 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.039 seconds
+2020-08-23 13:53:03,471 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 13:53:03,474 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 13:53:03,647 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 13:53:03,762 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 13:53:03,806 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input
+2020-08-23 13:53:03,806 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 13:53:03,809 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.337 seconds
+2020-08-23 13:53:08,810 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 13:53:08,812 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2020-08-23 13:53:08,817 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-08-23 13:53:08,817 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 13:53:08,841 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.372 seconds
+2020-08-23 13:53:08,841 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.031 seconds
+2020-08-23 13:56:38,370 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 13:56:38,372 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 13:56:38,533 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 13:56:38,642 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 13:56:38,645 | INFO | FileEndpoint.java 104 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-08-23 13:56:38,645 | INFO | FileEndpoint.java 110 | Using default memory based idempotent repository with cache max size: 1000
+2020-08-23 13:56:38,679 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input?noop=true
+2020-08-23 13:56:38,679 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 13:56:38,682 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.313 seconds
+2020-08-23 13:56:43,684 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 13:56:43,686 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2020-08-23 13:56:43,692 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+2020-08-23 13:56:43,692 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 13:56:43,715 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.348 seconds
+2020-08-23 13:56:43,716 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.031 seconds
+2020-08-23 13:59:20,463 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 13:59:20,466 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 13:59:20,624 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 13:59:20,730 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 13:59:20,733 | INFO | FileEndpoint.java 104 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-08-23 13:59:20,733 | INFO | FileEndpoint.java 110 | Using default memory based idempotent repository with cache max size: 1000
+2020-08-23 13:59:20,765 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input?noop=true
+2020-08-23 13:59:20,765 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 13:59:20,768 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.305 seconds
+2020-08-23 13:59:25,773 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 13:59:25,775 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 300 seconds)
+2020-08-23 13:59:25,781 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+2020-08-23 13:59:25,781 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 13:59:25,804 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.343 seconds
+2020-08-23 13:59:25,805 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.032 seconds
+2020-08-23 14:12:40,748 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 14:12:40,751 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 14:12:40,912 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 14:12:41,029 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 14:12:41,032 | INFO | FileEndpoint.java 104 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-08-23 14:12:41,033 | INFO | FileEndpoint.java 110 | Using default memory based idempotent repository with cache max size: 1000
+2020-08-23 14:12:41,062 | INFO | FileEndpoint.java 104 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-08-23 14:12:41,062 | INFO | FileEndpoint.java 110 | Using default memory based idempotent repository with cache max size: 1000
+2020-08-23 14:12:41,077 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input?noop=true
+2020-08-23 14:12:41,080 | INFO | DefaultCamelContext.java 4026 | Route: route2 started and consuming from: file://data/input1?noop=true
+2020-08-23 14:12:41,081 | INFO | DefaultCamelContext.java 3195 | Total 2 routes, of which 2 are started
+2020-08-23 14:12:41,084 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.336 seconds
+2020-08-23 14:12:42,093 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598188360533-0-1, CamelFileAbsolute=false, CamelFileAbsolutePath=/Users/preetampotdar/IdeaProjects/learncamel-simple-route/data/input/file2.txt, CamelFileLastModified=1598185442000, CamelFileLength=5, CamelFileName=file2.txt, CamelFileNameConsumed=file2.txt, CamelFileNameOnly=file2.txt, CamelFileParent=data/input, CamelFilePath=data/input/file2.txt, CamelFileRelativePath=file2.txt}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file2.txt]]]
+2020-08-23 14:12:42,102 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598188360533-0-3, CamelFileAbsolute=false, CamelFileAbsolutePath=/Users/preetampotdar/IdeaProjects/learncamel-simple-route/data/input/file1.txt, CamelFileLastModified=1598185442000, CamelFileLength=2, CamelFileName=file1.txt, CamelFileNameConsumed=file1.txt, CamelFileNameOnly=file1.txt, CamelFileParent=data/input, CamelFilePath=data/input/file1.txt, CamelFileRelativePath=file1.txt}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1.txt]]]
+2020-08-23 14:12:46,088 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 14:12:46,089 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 2 routes (timeout 300 seconds)
+2020-08-23 14:12:46,094 | INFO | DefaultShutdownStrategy.java 671 | Route: route2 shutdown complete, was consuming from: file://data/input1?noop=true
+2020-08-23 14:12:46,095 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+2020-08-23 14:12:46,095 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 2 routes completed in 0 seconds
+2020-08-23 14:12:46,112 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.367 seconds
+2020-08-23 14:12:46,114 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.025 seconds
+2020-08-23 14:15:27,822 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 14:15:27,826 | INFO | ManagedManagementStrategy.java 205 | JMX is enabled
+2020-08-23 14:15:28,006 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 14:15:28,139 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 14:15:28,143 | INFO | FileEndpoint.java 104 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-08-23 14:15:28,144 | INFO | FileEndpoint.java 110 | Using default memory based idempotent repository with cache max size: 1000
+2020-08-23 14:15:28,185 | INFO | FileEndpoint.java 104 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-08-23 14:15:28,185 | INFO | FileEndpoint.java 110 | Using default memory based idempotent repository with cache max size: 1000
+2020-08-23 14:15:28,206 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input?noop=true
+2020-08-23 14:15:28,209 | INFO | DefaultCamelContext.java 4026 | Route: route2 started and consuming from: file://data/input1?noop=true
+2020-08-23 14:15:28,210 | INFO | DefaultCamelContext.java 3195 | Total 2 routes, of which 2 are started
+2020-08-23 14:15:28,212 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.392 seconds
+2020-08-23 14:15:29,227 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598188527587-0-2, CamelFileAbsolute=false, CamelFileAbsolutePath=/Users/preetampotdar/IdeaProjects/learncamel-simple-route/data/input/file2.txt, CamelFileLastModified=1598185442000, CamelFileLength=5, CamelFileName=file2.txt, CamelFileNameConsumed=file2.txt, CamelFileNameOnly=file2.txt, CamelFileParent=data/input, CamelFilePath=data/input/file2.txt, CamelFileRelativePath=file2.txt}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file2.txt]]]
+2020-08-23 14:15:29,235 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598188527587-0-4, CamelFileAbsolute=false, CamelFileAbsolutePath=/Users/preetampotdar/IdeaProjects/learncamel-simple-route/data/input/file1.txt, CamelFileLastModified=1598185442000, CamelFileLength=2, CamelFileName=file1.txt, CamelFileNameConsumed=file1.txt, CamelFileNameOnly=file1.txt, CamelFileParent=data/input, CamelFilePath=data/input/file1.txt, CamelFileRelativePath=file1.txt}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1.txt]]]
+2020-08-23 14:15:33,213 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 14:15:33,214 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 2 routes (timeout 300 seconds)
+2020-08-23 14:15:33,218 | INFO | DefaultShutdownStrategy.java 671 | Route: route2 shutdown complete, was consuming from: file://data/input1?noop=true
+2020-08-23 14:15:33,219 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+2020-08-23 14:15:33,219 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 2 routes completed in 0 seconds
+2020-08-23 14:15:33,236 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.418 seconds
+2020-08-23 14:15:33,236 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.023 seconds
+2020-08-23 14:32:14,497 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 14:32:14,501 | INFO | CamelTestSupport.java 244 | Testing: checkFileExistsInOutputDirectory(com.learncamel.file.CopyFilesRouteTest)
+2020-08-23 14:32:14,501 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 14:32:14,825 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 14:32:14,826 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 14:32:14,862 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 14:32:14,945 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 14:32:14,964 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input
+2020-08-23 14:32:14,964 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 14:32:14,967 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.140 seconds
+2020-08-23 14:32:16,002 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598189534554-0-1, CamelFileAbsolute=false, CamelFileAbsolutePath=/Users/preetampotdar/IdeaProjects/learncamel-simple-route/data/input/file2.txt, CamelFileLastModified=1598185442000, CamelFileLength=5, CamelFileName=file2.txt, CamelFileNameConsumed=file2.txt, CamelFileNameOnly=file2.txt, CamelFileParent=data/input, CamelFilePath=data/input/file2.txt, CamelFileRelativePath=file2.txt}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file2.txt]]]
+2020-08-23 14:32:16,017 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598189534554-0-3, CamelFileAbsolute=false, CamelFileAbsolutePath=/Users/preetampotdar/IdeaProjects/learncamel-simple-route/data/input/file1.txt, CamelFileLastModified=1598185442000, CamelFileLength=2, CamelFileName=file1.txt, CamelFileNameConsumed=file1.txt, CamelFileNameOnly=file1.txt, CamelFileParent=data/input, CamelFilePath=data/input/file1.txt, CamelFileRelativePath=file1.txt}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1.txt]]]
+2020-08-23 14:32:19,973 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 14:32:19,973 | INFO | CamelTestSupport.java 390 | Testing done: checkFileExistsInOutputDirectory(com.learncamel.file.CopyFilesRouteTest)
+2020-08-23 14:32:19,974 | INFO | CamelTestSupport.java 391 | Took: 5.005 seconds (5005 millis)
+2020-08-23 14:32:19,974 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 14:32:19,976 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 14:32:19,977 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 14:32:19,980 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-08-23 14:32:19,981 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 14:32:19,995 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.170 seconds
+2020-08-23 14:32:19,995 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.019 seconds
+2020-08-23 14:33:46,420 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 14:33:46,424 | INFO | CamelTestSupport.java 244 | Testing: checkFileExistsInOutputDirectory(com.learncamel.file.CopyFilesRouteTest)
+2020-08-23 14:33:46,425 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 14:33:46,734 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 14:33:46,735 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 14:33:46,769 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 14:33:46,839 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 14:33:46,852 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input
+2020-08-23 14:33:46,852 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 14:33:46,854 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.118 seconds
+2020-08-23 14:33:51,857 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 14:33:51,858 | INFO | CamelTestSupport.java 390 | Testing done: checkFileExistsInOutputDirectory(com.learncamel.file.CopyFilesRouteTest)
+2020-08-23 14:33:51,858 | INFO | CamelTestSupport.java 391 | Took: 5.002 seconds (5002 millis)
+2020-08-23 14:33:51,858 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 14:33:51,859 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 14:33:51,859 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 14:33:51,863 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input
+2020-08-23 14:33:51,863 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 14:33:51,875 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.141 seconds
+2020-08-23 14:33:51,876 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.017 seconds
+2020-08-23 14:34:45,301 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 14:34:45,303 | INFO | CamelTestSupport.java 244 | Testing: checkFileExistsInOutputDirectory(com.learncamel.file.CopyFilesRouteTest)
+2020-08-23 14:34:45,304 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 14:34:45,732 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 14:34:45,733 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 14:34:45,765 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 14:34:45,833 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 14:34:45,836 | INFO | FileEndpoint.java 104 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-08-23 14:34:45,836 | INFO | FileEndpoint.java 110 | Using default memory based idempotent repository with cache max size: 1000
+2020-08-23 14:34:45,848 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input?noop=true
+2020-08-23 14:34:45,848 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 14:34:45,851 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.117 seconds
+2020-08-23 14:34:46,871 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598189685480-0-1, CamelFileAbsolute=false, CamelFileAbsolutePath=/Users/preetampotdar/IdeaProjects/learncamel-simple-route/data/input/file2.txt, CamelFileLastModified=1598185442000, CamelFileLength=5, CamelFileName=file2.txt, CamelFileNameConsumed=file2.txt, CamelFileNameOnly=file2.txt, CamelFileParent=data/input, CamelFilePath=data/input/file2.txt, CamelFileRelativePath=file2.txt}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file2.txt]]]
+2020-08-23 14:34:46,885 | INFO | CamelLogger.java 159 | Exchange[ExchangePattern: InOnly, Headers: {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598189685480-0-2, CamelFileAbsolute=false, CamelFileAbsolutePath=/Users/preetampotdar/IdeaProjects/learncamel-simple-route/data/input/file1.txt, CamelFileLastModified=1598185442000, CamelFileLength=2, CamelFileName=file1.txt, CamelFileNameConsumed=file1.txt, CamelFileNameOnly=file1.txt, CamelFileParent=data/input, CamelFilePath=data/input/file1.txt, CamelFileRelativePath=file1.txt}, BodyType: org.apache.camel.component.file.GenericFile, Body: [Body is file based: GenericFile[file1.txt]]]
+2020-08-23 14:34:50,856 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 14:34:50,856 | INFO | CamelTestSupport.java 390 | Testing done: checkFileExistsInOutputDirectory(com.learncamel.file.CopyFilesRouteTest)
+2020-08-23 14:34:50,860 | INFO | CamelTestSupport.java 391 | Took: 5.004 seconds (5004 millis)
+2020-08-23 14:34:50,860 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 14:34:50,861 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 14:34:50,862 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 14:34:50,867 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+2020-08-23 14:34:50,868 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 14:34:50,885 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.154 seconds
+2020-08-23 14:34:50,885 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.024 seconds
+2020-08-23 14:47:07,096 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 14:47:07,100 | INFO | CamelTestSupport.java 244 | Testing: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:47:07,100 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 14:47:07,600 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 14:47:07,601 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 14:47:07,635 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 14:47:07,722 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 14:47:07,727 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://sampleInput
+2020-08-23 14:47:07,727 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 14:47:07,730 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.128 seconds
+2020-08-23 14:47:07,739 | INFO | CamelLogger.java 159 | Received message body is 1234,Dilip,Udemy Instructor and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598190427329-0-1}
+2020-08-23 14:47:12,765 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 14:47:12,765 | INFO | CamelTestSupport.java 390 | Testing done: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:47:12,766 | INFO | CamelTestSupport.java 391 | Took: 5.034 seconds (5034 millis)
+2020-08-23 14:47:12,766 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 14:47:12,771 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 14:47:12,773 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 14:47:12,780 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-08-23 14:47:12,780 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 14:47:12,795 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.195 seconds
+2020-08-23 14:47:12,796 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.025 seconds
+2020-08-23 14:53:10,004 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 14:53:10,008 | INFO | CamelTestSupport.java 244 | Testing: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:53:10,008 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 14:53:10,305 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 14:53:10,306 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 14:53:10,343 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 14:53:10,421 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 14:53:10,425 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://sampleInput
+2020-08-23 14:53:10,425 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 14:53:10,427 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.120 seconds
+2020-08-23 14:53:10,435 | INFO | CamelLogger.java 159 | Received message body is 1234,Dilip,Udemy Instructor and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598190790054-0-1}
+2020-08-23 14:53:15,455 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 14:53:15,456 | INFO | CamelTestSupport.java 390 | Testing done: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:53:15,457 | INFO | CamelTestSupport.java 391 | Took: 5.027 seconds (5027 millis)
+2020-08-23 14:53:15,457 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 14:53:15,462 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 14:53:15,464 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 14:53:15,470 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-08-23 14:53:15,471 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 14:53:15,483 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.178 seconds
+2020-08-23 14:53:15,483 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.021 seconds
+2020-08-23 14:53:31,084 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 14:53:31,087 | INFO | CamelTestSupport.java 244 | Testing: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:53:31,088 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 14:53:31,392 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 14:53:31,393 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 14:53:31,428 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 14:53:31,501 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 14:53:31,507 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://sampleInput
+2020-08-23 14:53:31,508 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 14:53:31,510 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.116 seconds
+2020-08-23 14:53:31,519 | INFO | CamelLogger.java 159 | Received message body is 1234,Dilip,Udemy Instructor and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598190811135-0-1}
+2020-08-23 14:53:37,575 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 14:53:37,576 | INFO | CamelTestSupport.java 390 | Testing done: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:53:37,576 | INFO | CamelTestSupport.java 391 | Took: 6.065 seconds (6065 millis)
+2020-08-23 14:53:37,576 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 14:53:37,579 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 14:53:37,581 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 14:53:37,587 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-08-23 14:53:37,587 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 14:53:37,599 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 6.207 seconds
+2020-08-23 14:53:37,599 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.020 seconds
+2020-08-23 14:54:18,943 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 14:54:18,947 | INFO | CamelTestSupport.java 244 | Testing: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:54:18,947 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 14:54:19,256 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 14:54:19,257 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 14:54:19,298 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 14:54:19,377 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 14:54:19,382 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://sampleInput
+2020-08-23 14:54:19,382 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 14:54:19,384 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.127 seconds
+2020-08-23 14:54:19,395 | INFO | CamelLogger.java 159 | Received message body is 1234,Dilip,Udemy Instructor and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598190858991-0-1}
+2020-08-23 14:54:25,445 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 14:54:25,445 | INFO | CamelTestSupport.java 390 | Testing done: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:54:25,445 | INFO | CamelTestSupport.java 391 | Took: 6.060 seconds (6060 millis)
+2020-08-23 14:54:25,446 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 14:54:25,450 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 14:54:25,451 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 14:54:25,454 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-08-23 14:54:25,454 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 14:54:25,469 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 6.214 seconds
+2020-08-23 14:54:25,469 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.019 seconds
+2020-08-23 14:55:43,865 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 14:55:43,868 | INFO | CamelTestSupport.java 244 | Testing: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:55:43,869 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 14:55:44,292 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 14:55:44,293 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 14:55:44,333 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 14:55:44,414 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 14:55:44,419 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://sampleInput
+2020-08-23 14:55:44,420 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 14:55:44,423 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.129 seconds
+2020-08-23 14:55:44,436 | INFO | CamelLogger.java 159 | Received message body is 1234,Dilip,Udemy Instructor and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598190944040-0-1}
+2020-08-23 14:55:50,490 | WARN | MarkerFileExclusiveReadLockStrategy.java 190 | Deleting orphaned lock file: sampleOutput/output.txt.camelLock
+2020-08-23 14:55:50,494 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 14:55:50,494 | INFO | CamelTestSupport.java 390 | Testing done: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:55:50,494 | INFO | CamelTestSupport.java 391 | Took: 6.071 seconds (6071 millis)
+2020-08-23 14:55:50,494 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 14:55:50,500 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 14:55:50,501 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 14:55:50,504 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-08-23 14:55:50,504 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 14:55:50,515 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 6.224 seconds
+2020-08-23 14:55:50,515 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.015 seconds
+2020-08-23 14:56:08,201 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 14:56:08,204 | INFO | CamelTestSupport.java 244 | Testing: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:56:08,205 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 14:56:08,497 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 14:56:08,499 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 14:56:08,533 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 14:56:08,609 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 14:56:08,613 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://sampleInput
+2020-08-23 14:56:08,614 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 14:56:08,616 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.117 seconds
+2020-08-23 14:56:08,625 | INFO | CamelLogger.java 159 | Received message body is 1234,Dilip,Udemy Instructor and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598190968247-0-1}
+2020-08-23 14:56:14,685 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 14:56:14,686 | INFO | CamelTestSupport.java 390 | Testing done: sampleRouteTest(com.learncamel.direct.SampleDirectRouteTest)
+2020-08-23 14:56:14,686 | INFO | CamelTestSupport.java 391 | Took: 6.068 seconds (6068 millis)
+2020-08-23 14:56:14,686 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 14:56:14,690 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 14:56:14,692 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 14:56:14,694 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-08-23 14:56:14,694 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 14:56:14,715 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 6.218 seconds
+2020-08-23 14:56:14,716 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.026 seconds
+2020-08-23 15:12:28,633 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 15:12:28,636 | INFO | CamelTestSupport.java 244 | Testing: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:12:28,636 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 15:12:29,099 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 15:12:29,100 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 15:12:29,134 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 15:12:29,165 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 15:12:29,180 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.078 seconds
+2020-08-23 15:12:29,180 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.015 seconds
+2020-08-23 15:12:29,180 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 15:12:29,180 | INFO | CamelTestSupport.java 390 | Testing done: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:12:29,181 | INFO | CamelTestSupport.java 391 | Took: 0.549 seconds (549 millis)
+2020-08-23 15:12:29,181 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 15:14:25,369 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 15:14:25,372 | INFO | CamelTestSupport.java 244 | Testing: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:14:25,373 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 15:14:25,681 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 15:14:25,682 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 15:14:25,726 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 15:14:25,759 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 15:14:25,774 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.091 seconds
+2020-08-23 15:14:25,775 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.015 seconds
+2020-08-23 15:14:25,775 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 15:14:25,775 | INFO | CamelTestSupport.java 390 | Testing done: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:14:25,775 | INFO | CamelTestSupport.java 391 | Took: 0.408 seconds (408 millis)
+2020-08-23 15:14:25,775 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 15:16:41,191 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 15:16:41,194 | INFO | CamelTestSupport.java 244 | Testing: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:16:41,195 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 15:16:41,494 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 15:16:41,495 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 15:16:41,531 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 15:16:41,564 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 15:16:41,578 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.082 seconds
+2020-08-23 15:16:41,579 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.015 seconds
+2020-08-23 15:16:41,579 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 15:16:41,579 | INFO | CamelTestSupport.java 390 | Testing done: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:16:41,579 | INFO | CamelTestSupport.java 391 | Took: 0.390 seconds (390 millis)
+2020-08-23 15:16:41,579 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 15:18:14,076 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 15:18:14,079 | INFO | CamelTestSupport.java 244 | Testing: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:18:14,080 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 15:18:14,367 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 15:18:14,368 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 15:18:14,399 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 15:18:14,430 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 15:18:14,444 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.075 seconds
+2020-08-23 15:18:14,445 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.015 seconds
+2020-08-23 15:18:14,445 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 15:18:14,445 | INFO | CamelTestSupport.java 390 | Testing done: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:18:14,445 | INFO | CamelTestSupport.java 391 | Took: 0.371 seconds (371 millis)
+2020-08-23 15:18:14,445 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 15:20:47,461 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 15:20:47,465 | INFO | CamelTestSupport.java 244 | Testing: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:20:47,465 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 15:20:47,994 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 15:20:47,995 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 15:20:48,033 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 15:20:48,068 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 15:20:48,082 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.086 seconds
+2020-08-23 15:20:48,083 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.015 seconds
+2020-08-23 15:20:48,083 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 15:20:48,083 | INFO | CamelTestSupport.java 390 | Testing done: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:20:48,083 | INFO | CamelTestSupport.java 391 | Took: 0.624 seconds (624 millis)
+2020-08-23 15:20:48,083 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 15:23:26,110 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 15:23:26,112 | INFO | CamelTestSupport.java 244 | Testing: sampleRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:23:26,112 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 15:23:26,405 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 15:23:26,406 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 15:23:26,436 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 15:23:26,503 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 15:23:26,507 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://sampleInput
+2020-08-23 15:23:26,507 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 15:23:26,510 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.102 seconds
+2020-08-23 15:23:26,520 | INFO | CamelLogger.java 159 | Received Message is Hello and Headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598192606157-0-1}
+2020-08-23 15:23:26,522 | INFO | MockEndpoint.java 383 | Asserting: mock://output is satisfied
+2020-08-23 15:23:26,522 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 15:23:26,523 | INFO | CamelTestSupport.java 390 | Testing done: sampleRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:23:26,523 | INFO | CamelTestSupport.java 391 | Took: 0.012 seconds (12 millis)
+2020-08-23 15:23:26,523 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 15:23:26,525 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 15:23:26,526 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 15:23:26,529 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-08-23 15:23:26,529 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 15:23:26,537 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.132 seconds
+2020-08-23 15:23:26,538 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.013 seconds
+2020-08-23 15:24:19,294 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 15:24:19,297 | INFO | CamelTestSupport.java 244 | Testing: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:24:19,297 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 15:24:19,828 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 15:24:19,829 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 15:24:19,862 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 15:24:19,930 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 15:24:19,934 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://sampleInput
+2020-08-23 15:24:19,935 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 15:24:19,938 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.108 seconds
+2020-08-23 15:24:19,948 | INFO | CamelLogger.java 159 | Received message is Hello and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598192659544-0-1}
+2020-08-23 15:24:19,950 | INFO | MockEndpoint.java 383 | Asserting: mock://output is satisfied
+2020-08-23 15:24:19,951 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 15:24:19,951 | INFO | CamelTestSupport.java 390 | Testing done: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:24:19,951 | INFO | CamelTestSupport.java 391 | Took: 0.013 seconds (13 millis)
+2020-08-23 15:24:19,951 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 15:24:19,955 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 15:24:19,955 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 15:24:19,960 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-08-23 15:24:19,960 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 15:24:19,971 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.144 seconds
+2020-08-23 15:24:19,971 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.016 seconds
+2020-08-23 15:25:35,729 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 15:25:35,732 | INFO | CamelTestSupport.java 244 | Testing: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:25:35,733 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 15:25:36,057 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 15:25:36,058 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 15:25:36,092 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 15:25:36,158 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 15:25:36,163 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://sampleInput
+2020-08-23 15:25:36,164 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 15:25:36,166 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.107 seconds
+2020-08-23 15:25:36,176 | INFO | CamelLogger.java 159 | Received message is Hello and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598192735792-0-1}
+2020-08-23 15:25:36,178 | INFO | MockEndpoint.java 383 | Asserting: mock://output is satisfied
+2020-08-23 15:25:36,178 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 15:25:36,178 | INFO | CamelTestSupport.java 390 | Testing done: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:25:36,179 | INFO | CamelTestSupport.java 391 | Took: 0.011 seconds (11 millis)
+2020-08-23 15:25:36,179 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 15:25:36,182 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 15:25:36,182 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 15:25:36,186 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-08-23 15:25:36,186 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 15:25:36,195 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.138 seconds
+2020-08-23 15:25:36,195 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.013 seconds
+2020-08-23 15:40:11,634 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 15:40:11,638 | INFO | CamelTestSupport.java 244 | Testing: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:40:11,638 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 15:40:11,986 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 15:40:11,988 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 15:40:12,037 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 15:40:12,145 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 15:40:12,152 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://sampleInput
+2020-08-23 15:40:12,153 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 15:40:12,157 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.167 seconds
+2020-08-23 15:40:12,172 | INFO | CamelLogger.java 159 | Received message is Hello and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598193611693-0-1}
+2020-08-23 15:40:12,177 | INFO | MockEndpoint.java 383 | Asserting: mock://output is satisfied
+2020-08-23 15:40:12,178 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 15:40:12,178 | INFO | CamelTestSupport.java 390 | Testing done: sampleMockRouteTest(com.learncamel.direct.SampleMockRouteTest)
+2020-08-23 15:40:12,178 | INFO | CamelTestSupport.java 391 | Took: 0.021 seconds (21 millis)
+2020-08-23 15:40:12,179 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 15:40:12,182 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 15:40:12,183 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 15:40:12,188 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://sampleInput
+2020-08-23 15:40:12,189 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 15:40:12,203 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.217 seconds
+2020-08-23 15:40:12,204 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.022 seconds
+2020-08-23 15:55:59,361 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 15:55:59,364 | INFO | CamelTestSupport.java 244 | Testing: processorTest(com.learncamel.routes.process.CamelModifyFileProcessorRouteTest)
+2020-08-23 15:55:59,364 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 15:55:59,883 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 15:55:59,885 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 15:55:59,923 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 15:56:00,014 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 15:56:00,018 | INFO | FileEndpoint.java 104 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-08-23 15:56:00,018 | INFO | FileEndpoint.java 110 | Using default memory based idempotent repository with cache max size: 1000
+2020-08-23 15:56:00,027 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input?noop=true
+2020-08-23 15:56:00,028 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 15:56:00,030 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.145 seconds
+2020-08-23 15:56:01,059 | INFO | CamelLogger.java 159 | Read file is 123,Dilip,12JAN2017
+456,Adam,12JAN2017 and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598194559589-0-1, CamelFileAbsolute=false, CamelFileAbsolutePath=/Users/preetampotdar/IdeaProjects/learncamel-simple-route/data/input/file.txt, CamelFileLastModified=1598194552000, CamelFileLength=38, CamelFileName=file.txt, CamelFileNameConsumed=file.txt, CamelFileNameOnly=file.txt, CamelFileParent=data/input, CamelFilePath=data/input/file.txt, CamelFileRelativePath=file.txt}
+2020-08-23 15:56:05,033 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 15:56:05,034 | INFO | CamelTestSupport.java 390 | Testing done: processorTest(com.learncamel.routes.process.CamelModifyFileProcessorRouteTest)
+2020-08-23 15:56:05,034 | INFO | CamelTestSupport.java 391 | Took: 5.002 seconds (5002 millis)
+2020-08-23 15:56:05,035 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 15:56:05,036 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 15:56:05,036 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 15:56:05,039 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+2020-08-23 15:56:05,040 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 15:56:05,051 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.168 seconds
+2020-08-23 15:56:05,052 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.016 seconds
+2020-08-23 16:04:37,571 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 16:04:37,575 | INFO | CamelTestSupport.java 244 | Testing: processorTest(com.learncamel.routes.process.CamelModifyFileProcessorRouteTest)
+2020-08-23 16:04:37,576 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 16:04:38,176 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 16:04:38,177 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 16:04:38,219 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 16:04:38,331 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 16:04:38,335 | INFO | FileEndpoint.java 104 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-08-23 16:04:38,335 | INFO | FileEndpoint.java 110 | Using default memory based idempotent repository with cache max size: 1000
+2020-08-23 16:04:38,345 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input?noop=true
+2020-08-23 16:04:38,345 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 16:04:38,349 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.169 seconds
+2020-08-23 16:04:39,363 | INFO | CamelLogger.java 159 | Read file is 123,Dilip,12JAN2017
+456,Adam,12JAN2017 and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598195077831-0-1, CamelFileAbsolute=false, CamelFileAbsolutePath=/Users/preetampotdar/IdeaProjects/learncamel-simple-route/data/input/file.txt, CamelFileLastModified=1598194552000, CamelFileLength=38, CamelFileName=file.txt, CamelFileNameConsumed=file.txt, CamelFileNameOnly=file.txt, CamelFileParent=data/input, CamelFilePath=data/input/file.txt, CamelFileRelativePath=file.txt}
+2020-08-23 16:04:43,352 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 16:04:43,352 | INFO | CamelTestSupport.java 390 | Testing done: processorTest(com.learncamel.routes.process.CamelModifyFileProcessorRouteTest)
+2020-08-23 16:04:43,352 | INFO | CamelTestSupport.java 391 | Took: 5.002 seconds (5002 millis)
+2020-08-23 16:04:43,354 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 16:04:43,355 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 16:04:43,356 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 16:04:43,359 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+2020-08-23 16:04:43,359 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 16:04:43,374 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.198 seconds
+2020-08-23 16:04:43,374 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.019 seconds
+2020-08-23 16:08:11,342 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 16:08:11,345 | INFO | CamelTestSupport.java 244 | Testing: processorTest(com.learncamel.routes.process.CamelModifyFileProcessorRouteTest)
+2020-08-23 16:08:11,346 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 16:08:11,696 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 16:08:11,698 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 16:08:11,736 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 16:08:11,825 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 16:08:11,829 | INFO | FileEndpoint.java 104 | Endpoint is configured with noop=true so forcing endpoint to be idempotent as well
+2020-08-23 16:08:11,830 | INFO | FileEndpoint.java 110 | Using default memory based idempotent repository with cache max size: 1000
+2020-08-23 16:08:11,841 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: file://data/input?noop=true
+2020-08-23 16:08:11,841 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 16:08:11,844 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.146 seconds
+2020-08-23 16:08:12,857 | INFO | CamelLogger.java 159 | Read file is 123,Dilip,12JAN2017
+456,Adam,12JAN2017 and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598195291412-0-1, CamelFileAbsolute=false, CamelFileAbsolutePath=/Users/preetampotdar/IdeaProjects/learncamel-simple-route/data/input/file.txt, CamelFileLastModified=1598194552000, CamelFileLength=38, CamelFileName=file.txt, CamelFileNameConsumed=file.txt, CamelFileNameOnly=file.txt, CamelFileParent=data/input, CamelFilePath=data/input/file.txt, CamelFileRelativePath=file.txt}
+2020-08-23 16:08:16,846 | INFO | MockEndpoint.java 383 | Asserting: mock://output is satisfied
+2020-08-23 16:08:16,847 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 16:08:16,847 | INFO | CamelTestSupport.java 390 | Testing done: processorTest(com.learncamel.routes.process.CamelModifyFileProcessorRouteTest)
+2020-08-23 16:08:16,848 | INFO | CamelTestSupport.java 391 | Took: 5.003 seconds (5003 millis)
+2020-08-23 16:08:16,848 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 16:08:16,849 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 16:08:16,850 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 16:08:16,853 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: file://data/input?noop=true
+2020-08-23 16:08:16,853 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 16:08:16,866 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.170 seconds
+2020-08-23 16:08:16,867 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.018 seconds
+2020-08-23 16:23:55,429 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 16:23:55,432 | INFO | CamelTestSupport.java 244 | Testing: processorDirectTest(com.learncamel.routes.process.CamelModifyDirectProcessorRouteTest)
+2020-08-23 16:23:55,433 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 16:23:55,772 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 16:23:55,773 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 16:23:55,808 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 16:23:55,900 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 16:23:55,905 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://process
+2020-08-23 16:23:55,905 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 16:23:55,907 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.134 seconds
+2020-08-23 16:23:55,917 | INFO | CamelLogger.java 159 | Received message before process is 123,Dilip,12JAN2017 and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598196235489-0-1}
+2020-08-23 16:23:55,919 | INFO | CamelLogger.java 159 | Received message after process is 123:Dilip:12JAN2017 and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598196235489-0-1}
+2020-08-23 16:23:55,937 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 16:23:55,937 | INFO | CamelTestSupport.java 390 | Testing done: processorDirectTest(com.learncamel.routes.process.CamelModifyDirectProcessorRouteTest)
+2020-08-23 16:23:55,937 | INFO | CamelTestSupport.java 391 | Took: 0.029 seconds (29 millis)
+2020-08-23 16:23:55,938 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 16:23:55,941 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 16:23:55,941 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 16:23:55,945 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://process
+2020-08-23 16:23:55,945 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 16:23:55,956 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.185 seconds
+2020-08-23 16:23:55,956 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.015 seconds
+2020-08-23 16:24:43,041 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 16:24:43,044 | INFO | CamelTestSupport.java 244 | Testing: processorDirectTest(com.learncamel.routes.process.CamelModifyDirectProcessorRouteTest)
+2020-08-23 16:24:43,044 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 16:24:43,527 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 16:24:43,528 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 16:24:43,560 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 16:24:43,641 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 16:24:43,645 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://process
+2020-08-23 16:24:43,645 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 16:24:43,648 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.120 seconds
+2020-08-23 16:24:43,658 | INFO | CamelLogger.java 159 | Received message before process is 123,Dilip,12JAN2017 and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598196283256-0-1}
+2020-08-23 16:24:43,661 | INFO | CamelLogger.java 159 | Received message after process is 123:Dilip:12JAN2017 and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598196283256-0-1}
+2020-08-23 16:24:43,677 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 16:24:43,677 | INFO | CamelTestSupport.java 390 | Testing done: processorDirectTest(com.learncamel.routes.process.CamelModifyDirectProcessorRouteTest)
+2020-08-23 16:24:43,677 | INFO | CamelTestSupport.java 391 | Took: 0.029 seconds (29 millis)
+2020-08-23 16:24:43,677 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 16:24:43,681 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 16:24:43,681 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 16:24:43,685 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://process
+2020-08-23 16:24:43,686 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 16:24:43,695 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.169 seconds
+2020-08-23 16:24:43,695 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.014 seconds
+2020-08-23 16:30:01,258 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 16:30:01,261 | INFO | CamelTestSupport.java 244 | Testing: processorDirectUsingMock(com.learncamel.routes.process.CamelModifyDirectProcessorRouteTest)
+2020-08-23 16:30:01,261 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 16:30:01,788 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 16:30:01,789 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 16:30:01,832 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 16:30:01,909 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 16:30:01,914 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://process
+2020-08-23 16:30:01,915 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 16:30:01,917 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.127 seconds
+2020-08-23 16:30:01,919 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 16:30:01,919 | INFO | CamelTestSupport.java 390 | Testing done: processorDirectUsingMock(com.learncamel.routes.process.CamelModifyDirectProcessorRouteTest)
+2020-08-23 16:30:01,919 | INFO | CamelTestSupport.java 391 | Took: 0.000 seconds (0 millis)
+2020-08-23 16:30:01,919 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 16:30:01,920 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 16:30:01,921 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 16:30:01,925 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://process
+2020-08-23 16:30:01,925 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 16:30:01,938 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.150 seconds
+2020-08-23 16:30:01,938 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.018 seconds
+2020-08-23 16:30:30,371 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 16:30:30,374 | INFO | CamelTestSupport.java 244 | Testing: processorDirectUsingMock(com.learncamel.routes.process.CamelModifyDirectProcessorRouteTest)
+2020-08-23 16:30:30,375 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 16:30:30,682 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 16:30:30,683 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 16:30:30,720 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 16:30:30,794 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 16:30:30,798 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://process
+2020-08-23 16:30:30,799 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 16:30:30,801 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.117 seconds
+2020-08-23 16:30:30,802 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 16:30:30,803 | INFO | CamelTestSupport.java 390 | Testing done: processorDirectUsingMock(com.learncamel.routes.process.CamelModifyDirectProcessorRouteTest)
+2020-08-23 16:30:30,803 | INFO | CamelTestSupport.java 391 | Took: 0.000 seconds (0 millis)
+2020-08-23 16:30:30,803 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 16:30:30,803 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 16:30:30,804 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 16:30:30,808 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://process
+2020-08-23 16:30:30,808 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 16:30:30,818 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.136 seconds
+2020-08-23 16:30:30,818 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.015 seconds
+2020-08-23 16:31:08,731 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2020-08-23 16:31:08,734 | INFO | CamelTestSupport.java 244 | Testing: processorDirectUsingMock(com.learncamel.routes.process.CamelModifyDirectProcessorRouteTest)
+2020-08-23 16:31:08,734 | INFO | CamelTestSupport.java 245 | ********************************************************************************
+2020-08-23 16:31:09,050 | INFO | DefaultCamelContext.java 3146 | Apache Camel 2.20.1 (CamelContext: camel-1) is starting
+2020-08-23 16:31:09,051 | INFO | DefaultManagementStrategy.java 232 | JMX is disabled
+2020-08-23 16:31:09,089 | INFO | DefaultTypeConverter.java 66 | Type converters loaded (core: 192, classpath: 0)
+2020-08-23 16:31:09,165 | INFO | DefaultCamelContext.java 3466 | StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2020-08-23 16:31:09,170 | INFO | DefaultCamelContext.java 4026 | Route: route1 started and consuming from: direct://process
+2020-08-23 16:31:09,170 | INFO | DefaultCamelContext.java 3195 | Total 1 routes, of which 1 are started
+2020-08-23 16:31:09,173 | INFO | DefaultCamelContext.java 3207 | Apache Camel 2.20.1 (CamelContext: camel-1) started in 0.121 seconds
+2020-08-23 16:31:09,182 | INFO | CamelLogger.java 159 | Received message before process is 123,Dilip,12JAN2017 and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598196668779-0-1}
+2020-08-23 16:31:09,184 | INFO | CamelLogger.java 159 | Received message after process is 123:Dilip:12JAN2017 and headers are {breadcrumbId=ID-Preetams-MacBook-Pro-local-1598196668779-0-1}
+2020-08-23 16:31:09,185 | INFO | MockEndpoint.java 383 | Asserting: mock://output is satisfied
+2020-08-23 16:31:09,186 | INFO | CamelTestSupport.java 389 | ********************************************************************************
+2020-08-23 16:31:09,186 | INFO | CamelTestSupport.java 390 | Testing done: processorDirectUsingMock(com.learncamel.routes.process.CamelModifyDirectProcessorRouteTest)
+2020-08-23 16:31:09,186 | INFO | CamelTestSupport.java 391 | Took: 0.013 seconds (13 millis)
+2020-08-23 16:31:09,187 | INFO | CamelTestSupport.java 420 | ********************************************************************************
+2020-08-23 16:31:09,189 | INFO | DefaultCamelContext.java 3497 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutting down
+2020-08-23 16:31:09,189 | INFO | DefaultShutdownStrategy.java 195 | Starting to graceful shutdown 1 routes (timeout 10 seconds)
+2020-08-23 16:31:09,193 | INFO | DefaultShutdownStrategy.java 671 | Route: route1 shutdown complete, was consuming from: direct://process
+2020-08-23 16:31:09,193 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
+2020-08-23 16:31:09,203 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 0.154 seconds
+2020-08-23 16:31:09,203 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.014 seconds
